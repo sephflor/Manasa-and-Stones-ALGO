@@ -1,1 +1,1 @@
-# Manasa-and-Stones-ALGO
+# Manasa-and-Stones-ALGO.This program computes all possible values of the last stone in a sequence where each step can be either a or b. It calculates each combination, stores the results in a set to avoid duplicates, sorts them, and then outputs the sorted list for each test case.
